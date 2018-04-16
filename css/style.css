@@ -26,6 +26,10 @@ body {
   margin: auto;
   border-bottom: 1px #ddd solid; }
 
+#mainFooter a:link {
+    text-decoration: none;
+  }
+
 #authors img {
   margin-top: -50px; }
 
